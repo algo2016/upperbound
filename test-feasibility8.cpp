@@ -32,7 +32,7 @@ int main()
 
 	cout << "upper bound is  " << upperbound << endl;
 
-	for (int t = 1; t<= 72; t++)
+	for (int t = 1; t<= 80; t++)
 	{
 		sum = 0;
 		for (int i = 1; i <= 8; i++ )
